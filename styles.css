@@ -1,0 +1,154 @@
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  position: fixed;
+
+  margin-top: 730px;
+  margin-left: 550px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body{
+  background: url("images/bg-pattern-bottom-desktop.svg");
+}
+
+.window *{
+    font-family: "League Spartan", sans-serif;
+}
+
+.left{
+  width: 400px;
+  float: left;
+  padding: 50px;
+  margin-top: 20px;
+  margin-left: 150px;
+}
+
+.right{
+  width: auto;
+  float: right;
+  background-color: white;
+
+  margin-top: 140px;
+  margin-right: 230px;
+}
+
+.right * {
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 8px;
+  font-size: 15px;
+  color: hsl(300, 43%, 22%);
+  font-family: "League Spartan", sans-serif;
+  vertical-align: middle;
+}
+
+.right .one{
+  margin-top: 10px;
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 350px;
+  height: 40px;
+}
+
+.right .two{
+  margin-top: 10px;
+  margin-left: 64px;
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-right: 40px;
+  width: 370px;
+  height:  40px;
+}
+
+.right .three{
+  margin-top: 10px;
+  margin-left: 120px;
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-right: 100px;
+  height:  40px;
+}
+
+.left p#one{
+  color: hsl(300, 43%, 22%);
+  font-size: 1.25cm;
+}
+
+.left p#two{
+  margin-top: -30px;
+  color: hsl(300, 24%, 65%);
+}
+
+img.star{
+  margin: 5px;
+}
+
+.bottom {
+  position: fixed;
+  margin-top: 450px;
+  margin-left: 150px;
+}
+ 
+.bottom .one{
+  background-color: hsl(300, 43%, 22%);
+  width: 320px;
+  height: 200px;
+  float: left;
+  margin: 10px;
+  border-radius: 11px;
+}
+
+.bottom .two{
+  background-color: hsl(300, 43%, 22%);
+  width: 320px;
+  height: 200px;
+  float: left;
+  margin: 10px;
+  border-radius: 11px;
+  margin-top: 20px;
+}
+
+.bottom .three{
+  background-color: hsl(300, 43%, 22%);
+  width: 320px;
+  height: 200px;
+  float: left;
+  margin: 10px;
+  border-radius: 11px;
+  margin-top: 30px;
+}
+
+.bottom * .name, * .desc{
+  color: white;
+  font-style: "League Spartan", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  padding: 0px 20px;
+}
+
+.bottom * .name{
+  font-weight: 700;
+}
+
+.bottom * {
+  vertical-align: middle;
+}
+
+.bottom * .tag{
+  margin-left: -110px;
+  padding-top: 50px;
+  color: hsl(299, 48%, 56%);
+}
+
+img.avatar{
+  border-radius: 100px;
+  width: 38px;
+  height: 38px;
+  align-items: center;
+  margin: 20px 0px 0px 20px;
+}
