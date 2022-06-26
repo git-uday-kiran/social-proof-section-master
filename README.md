@@ -1,5 +1,5 @@
-## QR CODE COMPONENT SOLUTION
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+## SOCIAL PROOF SECTION MASTER SOLUTION
+This is a solution to the [Social proof section master challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub/social-proof-section-using-html-1GaKnyD88s).
 
 ## Table of contents
 - [Overview](#Overview)
@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/git-uday-kiran/qr-code-component](https://github.com/git-uday-kiran/qr-code-component)
+- Solution URL: [https://github.com/git-uday-kiran/social-proof-section-master](https://github.com/git-uday-kiran/social-proof-section-master)
 - Live URL: [https://git-uday-kiran.github.io/social-proof-section-master/](https://git-uday-kiran.github.io/social-proof-section-master/)
 
 ## My process
